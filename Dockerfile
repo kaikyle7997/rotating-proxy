@@ -1,5 +1,4 @@
 FROM ubuntu:14.04
-FROM ubuntu:14.04
 MAINTAINER Ming-Kai Jiau <kasimjm7997@gmail.com>
 
 RUN echo 'dns-nameservers 8.8.8.8' >> /etc/network/interfaces
